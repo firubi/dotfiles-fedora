@@ -1,2 +1,8 @@
-# dotfiles-fedora
-Dotfiles for Fedora Linux and Getting started
+# Fedora dotfiles
+
+
+## Getting started
+https://rpmfusion.org/Howto/Secure%20Boot
+https://rpmfusion.org/Howto/NVIDIA
+
+## Programs
